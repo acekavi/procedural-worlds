@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walkable
+  - Not Walkable
+  - Cake
+  - Coins
+  - Medikit
+  - Trap
+  - Ultimate
+  - Enemy
+  - Normal Bullet
+  - Super Bullet
+  - Wall
+  - Ignore
+  - RedPill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Eyes
+  - Water
+  - UI
+  - Walkable
+  - Not Walkable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 1199197833
+    locked: 0
+  - name: Pathway
+    uniqueID: 1446837341
+    locked: 0
+  - name: Mountain
+    uniqueID: 2702035213
+    locked: 0
+  - name: Snow
+    uniqueID: 3871456351
+    locked: 0
