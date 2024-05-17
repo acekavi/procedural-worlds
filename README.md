@@ -25,17 +25,9 @@ ProceduralWorlds is a game developed as part of a game AI coursework. It feature
    cd ProceduralWorlds
    ```
 
-2. Install dependencies (if any):
+2. Open the project using Unity Hub
 
-   ```bash
-   # Assuming the game is built with Unity, Unreal Engine, or a similar platform
-   # Add specific installation instructions for the chosen game engine
-   ```
-
-3. Run the game:
-   ```bash
-   # Add instructions to run the game, e.g., opening the project in the game engine and starting the game
-   ```
+3. Run the scene: Assets/Scenes/Terrain
 
 ## Usage
 
