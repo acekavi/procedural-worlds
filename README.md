@@ -8,6 +8,10 @@ ProceduralWorlds is a game developed as part of a game AI coursework. It feature
 - Player mechanics including shooting bullets to eliminate enemies.
 - Enemies using pathfinding algorithms (A\*, BFS, DFS) to navigate the terrain.
 
+## Demo
+
+- YouTube Link - https://youtu.be/WRw_ja7zIv4
+
 ## Features
 
 - **Procedural Terrain Generation**: The terrain extends with the player's location according to a gradient noise generation algorithm called open simplex noise.
